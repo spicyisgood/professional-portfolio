@@ -1,6 +1,3 @@
-# professional-portfolio
-Technical Portfolio | Data Analytics, Automation, Business Systems Project
-
 # Christian Niel Ararao — Technical Portfolio
 
 Computer Science student with hands-on experience in enterprise data analytics, workflow automation, business intelligence systems, AI-powered reporting platforms, and enterprise software solutions.
